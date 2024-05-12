@@ -47,6 +47,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
+![image](https://github.com/ELK23/hw-02.md/assets/67402682/7ee67fc6-45a0-4bee-9edc-9e3b65f068a4)
 
 `
 
